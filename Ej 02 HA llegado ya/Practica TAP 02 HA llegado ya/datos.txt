@@ -1,0 +1,8 @@
+3 Ester
+Ester 2 Ana Miguel
+Beatriz 3 Javier Olga Carmen
+Miguel 1 Patricia
+2 Gonzalo
+Ester 2 Borja Manuel
+Manuel 1 Fernando
+0
